@@ -1,0 +1,4 @@
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\ASPPersonaldetails\persondetailsinsert\bin\Debug\persondetailsinsert.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\ASPPersonaldetails\persondetailsinsert\bin\Debug\persondetailsinsert.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\ASPPersonaldetails\persondetailsinsert\obj\Debug\persondetailsinsert.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\ASPPersonaldetails\persondetailsinsert\obj\Debug\persondetailsinsert.pdb
